@@ -1,0 +1,31 @@
+html {
+  font-size: 24px;
+}
+
+ul {
+  margin-bottom: 50px;
+}
+
+.em-bloco li {
+  background-color: #7fffd4;
+  margin-bottom: 10px;
+}
+
+.em-linha li {
+  display: inline;
+  background-color: #00ffff;
+}
+
+.em-linha-e-bloco li {
+  display: inline-block;
+  background-color: #0000ff;
+  width: 100px;
+  height: 100px;
+}
+
+.esconder li {
+  display: none;
+  background-color: #ff0000;
+  width: 100px;
+  height: 100px;
+}
